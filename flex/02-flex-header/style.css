@@ -2,9 +2,8 @@
   font-family: monospace;
   background: papayawhip;
   display: flex;
-  flex-direction: row;
-  align-items: center;
   justify-content: space-between;
+  align-items: center;
   padding: 8px;
 }
 
@@ -14,9 +13,7 @@
   color: tomato;
   background: white;
   padding: 4px 32px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+
 }
 
 ul {
@@ -26,7 +23,6 @@ ul {
   margin: 0;
   padding: 0;
   gap: 8px;
-
 }
 
 a {
@@ -35,4 +31,5 @@ a {
   padding: 8px;
   /* this removes the line under the links */
   text-decoration: none;
+  
 }
